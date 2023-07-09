@@ -40,14 +40,3 @@ To customize the playbook, you can modify [describe which files or variables can
 
 ### Contributing
 Contributions are welcome! Please refer to the CONTRIBUTING guidelines for more information.
-
-### Issues
-If you encounter any issues or have any questions, please create an issue in this repository.
-
-```
-Feel free to modify this README template according to your project's specific details, including the prerequisites, usage instructions, playbook details, customization options, and licensing information.
-
-Make sure to update the URLs, filenames, and placeholders with the actual information related to your Dockerized Ansible playbook.
-
-Additionally, you can add any other sections or details that are relevant to your project, such as troubleshooting tips, advanced usage, or examples.
-```
